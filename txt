@@ -1,0 +1,15 @@
+public static void main(String args[])   
+{   
+Scanner sc = new Scanner(System.in);  
+System.out.print("Enter a number to check: ");  
+//reading a number from the user  
+int N=sc.nextInt();  
+//calling user-defined function   
+isSunnyNumber(N);   
+}       
+//function checks whether the given is a perfect square or not   
+static boolean findPerfectSquare(double num
+
+THIS IS 1ST CODE 
+
+=============================================================================)
